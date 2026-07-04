@@ -362,13 +362,13 @@ export const botConfig = {
     // Welcome template posted when a user joins.
     // Placeholders: {user}, {server}, {memberCount}
     defaultWelcomeMessage:
-      "Welcome {user} to {server}! We now have {memberCount} members!",
+      "**We are thrilled to have you here {user}. Echo CC isn’t just another convoy control group; we are the heartbeat of the road. Our mission is to provide seamless, professional, and high-quality escort services that ensure every journey is as smooth as it is safe.\n<a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534><a:NeonLine:1470127308017762534>\n\n**__What We Are All About__**\nAt Echo CC, we specialize in precision, communication, and coordination. Whether we are managing a massive inter-VTC event or a private company haul, our goal is to maintain the perfect flow of traffic while upholding the highest standards of realism and etiquette.\n\nWe hope you have a great time here <a:EchoCC_Beating_Heart:1504799771670478929>\n\n*We advise you to read through our rules thoroughly*\n<a:EchoCC_Arrow:1504798165797441617> https://discord.com/channels/1453727164502638593/1453729375416615087\n\n**__Any Questions Regarding Our Services?__**\n<a:EchoCC_Arrow:1504798165797441617> **Need General Help?** <#1496158832832024626>\n<a:EchoCC_Arrow:1504798165797441617> **Contact Leadership?** <#1496158081162416271>\n<a:EchoCC_Arrow:1504798165797441617> **Book Supervision?** <#1496157910672080906>\n\n***Your Vision Our Mision***",
     // Goodbye template posted when a user leaves.
     // Placeholders: {user}, {memberCount}
     defaultGoodbyeMessage:
       "{user} has left the server. We now have {memberCount} members.",
     // Channel ID for welcome messages.
-    defaultWelcomeChannel: null,
+    defaultWelcomeChannel: "1453812801528139910",
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
   },
