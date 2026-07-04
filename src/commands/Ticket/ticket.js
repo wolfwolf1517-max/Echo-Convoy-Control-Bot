@@ -149,7 +149,7 @@ description: panelMessage,
                     .setCustomId("create_ticket")
 .setLabel(buttonLabel)
                     .setStyle(ButtonStyle.Primary)
-                    .setEmoji("📩"),
+                    .setEmoji("1466138163658621253"),
             );
 
             try {
